@@ -131,7 +131,7 @@ A pioneering and security-oriented developer offering more than one and a half y
 						<div class="progress-wrap">
 							<h3>PHP</h3>
 							<div class="progress">
-							  <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+							  <div class="progress-bar color4" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 46%">
 								<span class="bar-width">Familiar</span>
 							  </div>
 							</div>
@@ -139,7 +139,7 @@ A pioneering and security-oriented developer offering more than one and a half y
 						<div class="progress-wrap">
 							<h3>MySQL</h3>
 							<div class="progress">
-							  <div class="progress-bar color1" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 50%">
+							  <div class="progress-bar color1" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 46%">
 								<span class="bar-width">Familiar</span>
 							  </div>
 							</div>
